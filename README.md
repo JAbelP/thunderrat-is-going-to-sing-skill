@@ -8,7 +8,7 @@ Thunder rat used 'sing'
 * "Use sing"
 
 ## Credits
-Helquin
+JAbel
 
 ## Category
 **Entertainment**
@@ -16,3 +16,4 @@ IoT
 
 ## Tags
 
+By giving this command to thunderrat all the lights in the house would turn a specific color and thunder rat would begin to sing 
